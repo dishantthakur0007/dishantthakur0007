@@ -2,9 +2,7 @@
 
 <!-- PROFILE PICTURE AREA -->
 <!-- I've added a circular style to your provided image. -->
-<img src="[./728148308_17953816662169984_8347609055143944214_n.jpg](https://github.com/dishantthakur0007/dishantthakur0007/blob/main/728148308_17953816662169984_8347609055143944214_n.jpg?raw=true)
-" width="180" style="border-radius: 50%;" alt="Dishant Thakur's Profile Picture" />
-
+<img src="https://raw.githubusercontent.com/dishantthakur0007/dishantthakur0007/main/728148308_17953816662169984_8347609055143944214_n.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="Dishant Thakur" />
 <br/>
 
 <!-- MAIN HEADER: NAME AND ROLE (Updated: Now Dishant) -->
