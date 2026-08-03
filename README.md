@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Open Source Projects & AI/ML Fundamentals**
-- 🌱 I’m currently learning **Advanced Python, Data Structures & Machine Learning**
+- 🌱 I’m currently learning **Python, Data Structures & Machine Learning**
 - 🎨 Fun fact: I love **sketching, digital art & modern UI design**
 - 💬 Ask me about **Python, C++, HTML/CSS, or starting in Tech**
 
@@ -26,12 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dishantthakur0007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantthakur0007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 Thats it Exploring new things !!
 
 ---
 
