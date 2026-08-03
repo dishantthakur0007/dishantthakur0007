@@ -9,7 +9,7 @@
 
 
 <!-- MAIN HEADER: NAME AND ROLE (Updated: Now Dishant) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Dishant+Thakur;CSE+(AI%2FML)+Student;Passionate+Developer;Building+The+Future+with+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B+I'm+Dishant+Thakur;CSE+(AI%2FML)+Student;Passionate+for+Developer;Building+The+Future+with+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -36,7 +36,7 @@
 * 🔭 **Current Focus:** Open Source Projects & AI/ML Fundamentals
 * 🌱 **Learning:** Python, Data Structures, Algorithms & Machine Learning
 * 🎨 **Creative Side:** I love sketching, digital art & modern UI design
-* 💬 **Ask Me About:** Python, C++, HTML/CSS, or starting in Tech
+* 💬 **Learning in  process :** Python, C++, HTML/CSS, or starting in Tech
 
 ---
 
