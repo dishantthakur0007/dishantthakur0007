@@ -2,9 +2,7 @@
 
 <!-- PROFILE PICTURE AREA -->
 <!-- I've added a circular style to your provided image. -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dishantthakur0007/dishantthakur0007/main/728148308_17953816662169984_8347609055143944214_n.jpg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="Dishant Thakur" />
-</div>
+<img src="1784989099483-modified (2).png" width="200" align="center" alt="Dishant">
 <br>
 
 
