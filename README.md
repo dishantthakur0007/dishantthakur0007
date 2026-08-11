@@ -2,7 +2,7 @@
 
 <!-- PROFILE PICTURE AREA -->
 <!-- I've added a circular style to your provided image. -->
-<img src="1784989099483-modified (2).png" width="200" align="center" alt="Dishant">
+<img src="WhatsApp Image 2026-08-04 at 3.44.52 PM (1).png" width="200" align="center" alt="Dishant">
 <br>
 <br>
 
